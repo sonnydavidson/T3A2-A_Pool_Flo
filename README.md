@@ -1,6 +1,6 @@
 # Pool Flo full stack app 
 
-# **R1** ## Description of your website, including: Purpose, Functionality / features, Target audience, Tech stack
+# **R1**  Description of your website, including: Purpose, Functionality / features, Target audience, Tech stack
 
 ### Purpose:
 
@@ -29,14 +29,11 @@ Hosting: Netlify
 Authentication: JWT (JSON Web Tokens)
 
 
-# **R2**	
-## Dataflow Diagram
+# **R2**	Dataflow Diagram
 
-# **R3**	
-## Application Architecture Diagram
+# **R3**	Application Architecture Diagram
 
-# **R4**	
-## User Stories
+# **R4**	User Stories
 
 1. 
 
@@ -48,8 +45,7 @@ Authentication: JWT (JSON Web Tokens)
 
 5. 
 
-# **R5**	
-## Wireframes for multiple standard screen sizes, created using industry standard software
+# **R5**	Wireframes for multiple standard screen sizes, created using industry standard software
 
 
 # **R6**	
