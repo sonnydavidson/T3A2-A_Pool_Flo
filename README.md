@@ -17,12 +17,16 @@ The app utilizes a modern tech stack to deliver a seamless and responsive user e
 
 Front-end: HTML, CSS, JavaScript, React.js
 <br>
+
 Back-end: Node.js, Express.js
 <br>
+
 Database: MongoDB
 <br>
+
 Hosting: Netlify
 <br>
+
 Authentication: JWT (JSON Web Tokens)
 
 
