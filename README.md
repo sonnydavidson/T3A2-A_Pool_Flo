@@ -62,10 +62,10 @@ Basically, the graphic shows how users will query the database and how our appli
 <img width="637" alt="Screen Shot 2023-07-16 at 9 28 04 pm" src="https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/47e9c7f0-f8d7-4a7b-ac76-a9b6fa974133">
 
 # **R5**	Wireframes for multiple standard screen sizes, created using industry standard software
-# Desktop
+### Desktop:
 <img width="630" alt="Screen Shot 2023-07-16 at 10 51 56 pm" src="https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/b05ec80d-76cf-4a14-8549-360645a9476a">
 
-#Mobile
+### Mobile Phone:
 <img width="240" alt="Screen Shot 2023-07-16 at 10 52 35 pm" src="https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/a21fa945-3d98-4488-b6dd-e0cdfb7f6483">
 
 <img width="245" alt="Screen Shot 2023-07-16 at 10 52 57 pm" src="https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/662e0179-ed24-4563-9705-e22f4008da89">
