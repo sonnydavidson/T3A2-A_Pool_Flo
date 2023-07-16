@@ -46,6 +46,9 @@ Authentication: JWT (JSON Web Tokens)
 # **R2**	Dataflow Diagram
 
 # **R3**	Application Architecture Diagram
+![application_architecture_diagram](https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/77db604d-9e79-4ed7-858d-043a3dd25c8d)
+
+Through HTTP requests and APIs, the React front-end communicates with the Node Express back-end. Using Mongoose, the backend communicates with the MongoDB database to store and retrieve data. On Netlify and Google Cloud Platform, which offer a scalable and trustworthy hosting environment, the application is installed and hosted. GitHub is used to manage and facilitate team communication on the codebase since it supports version control.
 
 # **R4**	User Stories
 
