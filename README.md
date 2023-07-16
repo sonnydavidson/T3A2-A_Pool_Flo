@@ -44,6 +44,7 @@ Authentication: JWT (JSON Web Tokens)
 
 
 # **R2**	Dataflow Diagram
+<img width="1475" alt="Screen Shot 2023-07-16 at 10 28 40 pm" src="https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/bb5c7ae1-1455-4e1f-b97a-c04a96b28e1b">
 
 # **R3**	Application Architecture Diagram
 ![application_architecture_diagram](https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/77db604d-9e79-4ed7-858d-043a3dd25c8d)
