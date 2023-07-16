@@ -60,9 +60,6 @@ Basically, the graphic shows how users will query the database and how our appli
 
 3.  
 
-4. 
-
-5. 
 
 # **R5**	Wireframes for multiple standard screen sizes, created using industry standard software
 
