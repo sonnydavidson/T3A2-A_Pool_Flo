@@ -64,8 +64,7 @@ Basically, the graphic shows how users will query the database and how our appli
 # **R5**	Wireframes for multiple standard screen sizes, created using industry standard software
 
 
-# **R6**	
-## Screenshots of your Trello board throughout the duration of the project
+# **R6**	## Screenshots of your Trello board throughout the duration of the project
 <img width="1401" alt="Screen Shot 2023-07-14 at 12 59 52 pm" src="https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/f6af1701-256c-4069-8f60-1d5ccd58c25f">
 
 <img width="1401" alt="Screen Shot 2023-07-14 at 12 52 15 pm" src="https://github.com/sonnydavidson/T3A2-A_Pool_Flo/assets/110369771/3c0af4bc-2d36-4448-ac5b-e08610b17443">
